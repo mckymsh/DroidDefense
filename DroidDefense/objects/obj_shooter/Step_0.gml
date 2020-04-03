@@ -11,6 +11,7 @@ if(instance_number(obj_enemy) > 0)
 			alarm[0] = fire_delay_ratio*room_speed;
 			var current_projectile = instance_create_depth(x, y, depth, projectile_type);
 			current_projectile.direction = direction;
+			current_projectile.damage = damage;
 		}
 	}
 }

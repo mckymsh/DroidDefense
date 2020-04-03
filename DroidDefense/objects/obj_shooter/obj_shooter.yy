@@ -114,7 +114,7 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "128",
+            "value": "256",
             "varName": "max_range",
             "varType": 0
         },
@@ -130,6 +130,20 @@
             "resourceFilter": 1023,
             "value": "1000",
             "varName": "price",
+            "varType": 0
+        },
+        {
+            "id": "b647e193-dff4-4d5d-acfa-a900ec5d923e",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "50",
+            "varName": "damage",
             "varType": 0
         }
     ],

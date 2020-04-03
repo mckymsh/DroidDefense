@@ -9,7 +9,13 @@ if(mouse_check_button_pressed(mb_left))
 	}
 	else
 	{
-		if(place_meeting(mouse_x, mouse_y, obj_buildableArea))
+		if(place_meeting(mouse_x, mouse_y, obj_shooter_icon))
+		{
+			pickedUp = false;
+			x = default_x;
+			y = default_y;
+		}
+		else if(place_meeting(mouse_x, mouse_y, obj_buildableArea))
 		{
 			var newShooter = instance_create_depth(mouse_x, mouse_y, depth, shooter_type);
 			with (newShooter)
