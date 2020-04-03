@@ -1,3 +1,3 @@
 window_set_fullscreen(true);
 
-score = 1000;
+score = 10000;
