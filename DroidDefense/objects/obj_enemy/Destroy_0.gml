@@ -1,0 +1,1 @@
+score += point_value;

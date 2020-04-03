@@ -11,7 +11,6 @@ if(mouse_check_button_pressed(mb_left))
 	{
 		if(place_meeting(mouse_x, mouse_y, obj_buildableArea))
 		{
-			pickedUp = false;
 			var newShooter = instance_create_depth(mouse_x, mouse_y, depth, shooter_type);
 			with (newShooter)
 			{
@@ -20,8 +19,16 @@ if(mouse_check_button_pressed(mb_left))
 					move_snap(64, 64);
 				}
 			}
-			x = default_x;
-			y = default_y
 		}
+	}
+}
+
+if(pickedUp)
+{
+	if(mouse_check_button(mb_right))
+	{
+		pickedUp = false;
+		x = default_x;
+		y = default_y;
 	}
 }

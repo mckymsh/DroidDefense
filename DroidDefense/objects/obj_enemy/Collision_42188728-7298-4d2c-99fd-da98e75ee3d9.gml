@@ -1,5 +1,3 @@
-score += point_value;
-
 hp -= other.damage;
 
 with(other)
