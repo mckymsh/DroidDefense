@@ -1,4 +1,4 @@
-if(score <= 0)
+if(score < 0)
 {
 	draw_text_transformed((room_width/2)-128, room_height/2, string("YOU LOSE"), 8, 8, 0);
 }
