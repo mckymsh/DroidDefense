@@ -1,0 +1,1 @@
+speed = move_speed_ratio*room_speed;
