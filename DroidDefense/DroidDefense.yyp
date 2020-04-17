@@ -31,18 +31,18 @@
     },
     "resources": [
         {
-            "Key": "02ef2e38-1d5a-4b20-a357-1bd3aad8291c",
-            "Value": {
-                "id": "350367be-2851-4127-8df8-d0d8633a2f1a",
-                "resourcePath": "views\\6477fbe4-02fa-432e-8067-991d26190b73-room.yy",
-                "resourceType": "GMFolder"
-            }
-        },
-        {
             "Key": "153db516-7853-4c7d-9455-67eab874fe89",
             "Value": {
                 "id": "76172220-b707-4281-a97a-e0b459ecd509",
                 "resourcePath": "rooms\\rm_test\\rm_test.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "1776a64b-3b9c-4b78-b630-6231f76ac3a0",
+            "Value": {
+                "id": "6e935435-0839-4ef1-8300-ca7f41f2e23c",
+                "resourcePath": "rooms\\rm_level_1\\rm_level_1.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -207,6 +207,14 @@
             }
         },
         {
+            "Key": "7f5b41ca-978d-4e3b-ab29-74d2e9b9177b",
+            "Value": {
+                "id": "90a109f2-911f-4467-b7ab-8464e3eabe90",
+                "resourcePath": "rooms\\rm_level_5\\rm_level_5.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "832278f0-1b88-442a-9f2d-11d63496e4d8",
             "Value": {
                 "id": "035a6173-929d-4546-b004-2151e5df2445",
@@ -231,10 +239,18 @@
             }
         },
         {
+            "Key": "9e95323c-a2ad-43c5-aaa2-e072dd3c14f3",
+            "Value": {
+                "id": "118ff4c2-8027-472d-8a8d-4e6edc65d81d",
+                "resourcePath": "rooms\\rm_level_2\\rm_level_2.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "a3415bf6-2d35-4181-9b19-0460c59d243f",
             "Value": {
                 "id": "605aad9c-9a39-4086-a831-8c3a69dde3f4",
-                "resourcePath": "rooms\\rm_level_0\\rm_level_0.yy",
+                "resourcePath": "rooms\\rm_level\\rm_level.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -252,6 +268,14 @@
                 "id": "87959f92-1bbc-425e-93c5-df2e2a0a1ffd",
                 "resourcePath": "options\\linux\\options_linux.yy",
                 "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
+            "Key": "aee3bf9a-e011-4f5f-917d-f97dd24153cc",
+            "Value": {
+                "id": "8a5f4e71-3ef2-48c1-9bde-b1dc77593b30",
+                "resourcePath": "rooms\\rm_level_4\\rm_level_4.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -356,6 +380,14 @@
                 "id": "ec9c65d4-0e67-40a0-aa99-91831f5b7672",
                 "resourcePath": "sprites\\spr_greenAlien\\spr_greenAlien.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "ec38f232-eaaf-4446-b950-975c5ae38706",
+            "Value": {
+                "id": "ac04618f-dacf-4c30-b2fe-12aaa44208fd",
+                "resourcePath": "rooms\\rm_level_3\\rm_level_3.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
