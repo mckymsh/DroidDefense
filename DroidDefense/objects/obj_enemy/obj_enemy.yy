@@ -82,9 +82,9 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "choose(path0, path1)",
+            "value": "path0",
             "varName": "path",
-            "varType": 4
+            "varType": 5
         },
         {
             "id": "44d04f95-92cc-46ec-b380-3be79f165469",

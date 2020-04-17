@@ -1,1 +1,1 @@
-score += point_value;
+score += 1.5*point_value;

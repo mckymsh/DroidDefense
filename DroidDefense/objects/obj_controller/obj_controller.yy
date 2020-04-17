@@ -25,16 +25,6 @@
             "m_owner": "b5dbf59d-a069-405a-b22c-aa2a04b0b8e6"
         },
         {
-            "id": "2febf36e-162e-4967-ac0e-3ce9ad579311",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 2,
-            "m_owner": "b5dbf59d-a069-405a-b22c-aa2a04b0b8e6"
-        },
-        {
             "id": "609281b7-78cd-43e9-b765-bd41e0cccfd0",
             "modelName": "GMEvent",
             "mvc": "1.0",
@@ -68,7 +58,7 @@
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
     "parentObjectId": "00000000-0000-0000-0000-000000000000",
-    "persistent": false,
+    "persistent": true,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,
     "physicsFriction": 0.2,
@@ -83,7 +73,7 @@
     "physicsStartAwake": true,
     "properties": [
         {
-            "id": "b53628a4-82a1-4a9e-b6ea-63b2defa809f",
+            "id": "b3c27ae3-54d4-423e-bd15-b3e2ce11d9fb",
             "modelName": "GMObjectProperty",
             "mvc": "1.0",
             "listItems": null,
@@ -92,8 +82,50 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "True",
-            "varName": "spawn_enemy",
+            "value": "15",
+            "varName": "room_speed_increment",
+            "varType": 0
+        },
+        {
+            "id": "6b4fbe89-dcad-4d55-b7c1-83d05ee9b8c6",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "60",
+            "varName": "default_room_speed",
+            "varType": 0
+        },
+        {
+            "id": "f616cf20-aa62-430a-aba7-d9bcbd17e5db",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "10",
+            "varName": "enemies_per_portal",
+            "varType": 0
+        },
+        {
+            "id": "f33570a9-4eab-41b1-b437-e13dda27776f",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "max_enemies_set",
             "varType": 3
         }
     ],

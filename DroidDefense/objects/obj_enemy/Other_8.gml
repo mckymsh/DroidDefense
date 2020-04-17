@@ -1,3 +1,3 @@
-score -= 1.5*point_value;
+score -= point_value;
 
-instance_destroy();
+instance_destroy(id, false);

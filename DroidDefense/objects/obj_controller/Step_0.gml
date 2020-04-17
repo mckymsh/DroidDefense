@@ -1,21 +1,25 @@
-if(instance_number(obj_enemy) < 12)
-{
-	spawn_enemy = true;
-	if(alarm[0] < 0)
-	{
-		alarm[0] = irandom_range(0.1, 3)*room_speed;
-	}
-}
-else
-{
-	spawn_enemy = false;
-	alarm[0] = -1;
-}
-
 if(keyboard_check(vk_control))
 {
 	if(keyboard_check_pressed(ord("R")))
 	{
 		room_restart();
+	}
+	
+	if(keyboard_check_pressed(ord("F")))
+	{
+		room_speed += room_speed_increment;
+	}
+	
+	if(keyboard_check_pressed(ord("D")))
+	{
+		room_speed = default_room_speed;
+	}
+	
+	if(keyboard_check_pressed(ord("S")))
+	{
+		if(room_speed > room_speed_increment)
+		{
+			room_speed -= room_speed_increment;
+		}
 	}
 }
