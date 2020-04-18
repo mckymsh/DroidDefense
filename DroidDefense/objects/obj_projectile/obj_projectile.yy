@@ -33,6 +33,16 @@
             "enumb": 2,
             "eventtype": 3,
             "m_owner": "b5269c14-3ad8-4e04-b9d3-273cc75c1725"
+        },
+        {
+            "id": "78d675a9-8cae-4d88-9b4f-7751638a0ca5",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "b5269c14-3ad8-4e04-b9d3-273cc75c1725"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -62,7 +72,7 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "0.2",
+            "value": "0.25",
             "varName": "move_speed_ratio",
             "varType": 0
         },
@@ -79,6 +89,20 @@
             "value": "0",
             "varName": "damage",
             "varType": 0
+        },
+        {
+            "id": "4d4e53cc-d753-4531-836d-535f125e6bd2",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "noone",
+            "varName": "target",
+            "varType": 5
         }
     ],
     "solid": false,

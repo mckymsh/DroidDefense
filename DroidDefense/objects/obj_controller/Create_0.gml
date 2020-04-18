@@ -11,3 +11,8 @@ if(!max_enemies_set)
 }
 
 randomize();
+
+if(instance_number(obj_controller) > 1)
+{
+	instance_destroy(id, false);
+}

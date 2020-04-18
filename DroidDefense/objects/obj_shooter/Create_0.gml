@@ -10,3 +10,5 @@ else
 {
 	score -= price;
 }
+
+object_upon = instance_nearest(x, y, obj_buildableArea);

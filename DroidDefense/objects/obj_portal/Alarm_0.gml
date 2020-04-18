@@ -16,9 +16,17 @@ if(spawn_enemy)
 	}
 	
 	var new_enemy = instance_create_layer(0, 64, "Instances", enemy_type);
+	new_enemy.depth = -10;
 	with(new_enemy)
 	{
-		path = choose(path0, path1);
+		if(room = rm_level_1)
+		{
+			path = choose(pth_level1_0, pth_level1_1);
+		}
+		else
+		{
+			path = choose(path0, path1);
+		}
 		path_start(path, move_speed, path_action_stop, true);
 	}
 }

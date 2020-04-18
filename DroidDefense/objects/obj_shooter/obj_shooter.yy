@@ -145,6 +145,20 @@
             "value": "50",
             "varName": "damage",
             "varType": 0
+        },
+        {
+            "id": "90f3620d-7d32-4ba4-9169-2cc6c212cc44",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "noone",
+            "varName": "object_upon",
+            "varType": 5
         }
     ],
     "solid": true,

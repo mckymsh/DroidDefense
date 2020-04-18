@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "223d8d78-69c6-45dd-818d-4c70a07863fc",
+            "Value": {
+                "id": "13ee3212-9ae9-44f7-92f1-7fd00ee958e7",
+                "resourcePath": "sprites\\spr_home\\spr_home.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "2608fc88-268c-43b2-a13a-d7395f4c7973",
             "Value": {
                 "id": "7efc0fa9-2b4b-47e8-8318-558d3478c420",
@@ -135,6 +143,14 @@
             }
         },
         {
+            "Key": "3fb30fcd-e2a8-4636-9a9e-6f18ba346caf",
+            "Value": {
+                "id": "d996c2a4-52f4-4242-8386-d0f08364cf03",
+                "resourcePath": "sprites\\spr_stars\\spr_stars.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "454b7558-2af4-422c-b30b-018df3da8fd1",
             "Value": {
                 "id": "88cacc9b-9b41-40f4-8ca9-aa1bf11aaade",
@@ -156,6 +172,22 @@
                 "id": "bbc595f5-4fcd-49cb-beb4-a09ccd479ba2",
                 "resourcePath": "sprites\\spr_shooter2\\spr_shooter2.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "5faaca82-79d6-470c-9797-963f2ac9dd51",
+            "Value": {
+                "id": "f036ec1c-42d6-45f2-a18f-a79dd50f86dc",
+                "resourcePath": "sprites\\spr_projectile_blue\\spr_projectile_blue.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "60234b43-b52e-4864-8377-f386d0dd6aa9",
+            "Value": {
+                "id": "9f6604e2-0339-4055-a6d1-8b09fc3ce229",
+                "resourcePath": "paths\\pth_level1_1\\pth_level1_1.yy",
+                "resourceType": "GMPath"
             }
         },
         {
@@ -207,6 +239,14 @@
             }
         },
         {
+            "Key": "7575f693-750d-4468-bdd1-fe3561bd4171",
+            "Value": {
+                "id": "78593bea-de8d-43c7-bd14-d67876bbddd4",
+                "resourcePath": "objects\\obj_asteroid\\obj_asteroid.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "7f5b41ca-978d-4e3b-ab29-74d2e9b9177b",
             "Value": {
                 "id": "90a109f2-911f-4467-b7ab-8464e3eabe90",
@@ -227,6 +267,14 @@
             "Value": {
                 "id": "b5548018-ca9f-4ce0-b7f2-c72fc095977f",
                 "resourcePath": "sprites\\spr_blueShooter_icon\\spr_blueShooter_icon.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "8aae5252-c343-44af-a5ab-000b944c7b1b",
+            "Value": {
+                "id": "0561584a-a614-46d6-9295-237a7611b426",
+                "resourcePath": "sprites\\spr_asteroid\\spr_asteroid.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -351,6 +399,22 @@
             }
         },
         {
+            "Key": "d23677c0-8bbe-401f-a04d-22609f277ae7",
+            "Value": {
+                "id": "d482942b-6c1f-4f36-a0e5-2256532a413f",
+                "resourcePath": "objects\\obj_projectile_blue\\obj_projectile_blue.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "d4516961-8275-49ab-a8e3-1572b77eac4e",
+            "Value": {
+                "id": "3776ad4e-3502-46ea-823c-b635b89ffe8a",
+                "resourcePath": "objects\\obj_home\\obj_home.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "db29c72b-85f4-4afc-a5ac-53ba7cc67dd6",
             "Value": {
                 "id": "3a1cb78c-1e7f-4f09-854d-160fe48c3c07",
@@ -412,6 +476,14 @@
                 "id": "6666205b-7538-48bf-b1e2-78cb71b91a28",
                 "resourcePath": "options\\mac\\options_mac.yy",
                 "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "f6ac66f1-1f3f-4a94-9e17-4c50a8dd48c4",
+            "Value": {
+                "id": "54cc2117-a011-444f-ab99-54dfb974b2a9",
+                "resourcePath": "paths\\pth_level1_0\\pth_level1_0.yy",
+                "resourceType": "GMPath"
             }
         },
         {
