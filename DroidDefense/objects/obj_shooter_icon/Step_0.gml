@@ -20,9 +20,9 @@ if(mouse_check_button_pressed(mb_left))
 			var newShooter = instance_create_depth(mouse_x, mouse_y, -10, shooter_type);
 			with (newShooter)
 			{
-				if !place_snapped(64, 64)
+				if !place_snapped(global.grid_size, global.grid_size)
 				{
-					move_snap(64, 64);
+					move_snap(global.grid_size, global.grid_size);
 				}
 			}
 		}

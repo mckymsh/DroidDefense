@@ -19,9 +19,13 @@ if(spawn_enemy)
 	new_enemy.depth = -10;
 	with(new_enemy)
 	{
-		if(room = rm_level_1)
+		if(room == rm_level_1)
 		{
 			path = choose(pth_level1_0, pth_level1_1);
+		}
+		else if(room == rm_level_2)
+		{
+			path = choose(pth_level2_0, pth_level2_1);
 		}
 		else
 		{

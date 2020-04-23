@@ -53,6 +53,16 @@
             "enumb": 75,
             "eventtype": 8,
             "m_owner": "b5dbf59d-a069-405a-b22c-aa2a04b0b8e6"
+        },
+        {
+            "id": "ba6088b5-a139-4bad-82a2-35627e55e045",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 2,
+            "m_owner": "b5dbf59d-a069-405a-b22c-aa2a04b0b8e6"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -127,6 +137,20 @@
             "value": "0",
             "varName": "max_enemies_set",
             "varType": 3
+        },
+        {
+            "id": "3b57d9a4-420c-4a84-a381-540c2259d39f",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "3",
+            "varName": "intro_delay_ratio",
+            "varType": 0
         }
     ],
     "solid": false,

@@ -80,7 +80,7 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "55",
+            "value": "52",
             "varName": "redAlien_chance",
             "varType": 0
         },
@@ -94,7 +94,7 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "45",
+            "value": "48",
             "varName": "greenAlien_chance",
             "varType": 0
         }

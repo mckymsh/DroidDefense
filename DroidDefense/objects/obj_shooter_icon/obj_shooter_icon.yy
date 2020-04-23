@@ -5,16 +5,6 @@
     "name": "obj_shooter_icon",
     "eventList": [
         {
-            "id": "782f6e33-0b6c-4797-b385-ea0ce9549210",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 6,
-            "m_owner": "6135c306-9e83-4413-988f-ce8d2cab101b"
-        },
-        {
             "id": "a1400e3a-9c52-4620-85cc-c1ccc1a6fc04",
             "modelName": "GMEvent",
             "mvc": "1.0",

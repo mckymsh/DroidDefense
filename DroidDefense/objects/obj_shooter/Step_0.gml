@@ -20,4 +20,7 @@ if(instance_number(obj_enemy) > 0)
 		direction += object_upon.spin_direction;
 	}
 }
-
+else
+{
+	direction += object_upon.spin_direction;
+}

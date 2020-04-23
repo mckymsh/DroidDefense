@@ -23,6 +23,11 @@ if(keyboard_check(vk_control))
 		}
 	}
 	
+	if(keyboard_check_pressed(ord("M")))
+	{
+		score += 10000;
+	}
+	
 	if(keyboard_check_pressed(ord("1")))
 	{
 		room_goto(rm_level_1);
