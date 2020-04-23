@@ -5,13 +5,8 @@ window_set_fullscreen(true);
 score = 10000;
 
 global.grid_size = 64;
-global.max_enemies = 10;
-
-if(!max_enemies_set)
-{
-	global.max_enemies = enemies_per_portal * instance_number(obj_portal);
-	max_enemies_set = true; 
-}
+global.enemies_per_portal = 10;
+global.max_enemies = enemies_per_portal * 1; // just as a default
 
 if(instance_number(obj_controller) > 1)
 {

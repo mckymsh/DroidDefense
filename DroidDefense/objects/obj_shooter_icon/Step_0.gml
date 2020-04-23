@@ -15,16 +15,9 @@ if(mouse_check_button_pressed(mb_left))
 			x = default_x;
 			y = default_y;
 		}
-		else if(place_meeting(mouse_x, mouse_y, obj_buildableArea))
+		else if(position_meeting(mouse_x, mouse_y, obj_buildableArea))
 		{
-			var newShooter = instance_create_depth(mouse_x, mouse_y, -10, shooter_type);
-			with (newShooter)
-			{
-				if !place_snapped(global.grid_size, global.grid_size)
-				{
-					move_snap(global.grid_size, global.grid_size);
-				}
-			}
+			instance_create_depth(mouse_x, mouse_y, -10, shooter_type);
 		}
 	}
 }
