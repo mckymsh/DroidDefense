@@ -1,14 +1,23 @@
 {
-    "id": "95225497-bc23-4366-bd8f-d2c1a7dfec21",
+    "id": "158a6a47-c95e-4e48-a476-bedf484d8cdb",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_triangleShooter",
+    "name": "obj_triangleShooter_icon",
     "eventList": [
         
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
-    "overriddenProperties": null,
-    "parentObjectId": "28fda293-aa77-47e9-b1ef-a676e8f63d68",
+    "overriddenProperties": [
+        {
+            "id": "677abf7c-9abc-459e-a645-410ed3b471fb",
+            "modelName": "GMOverriddenProperty",
+            "mvc": "1.0",
+            "objectId": "6135c306-9e83-4413-988f-ce8d2cab101b",
+            "propertyId": "0338bf6b-1911-4e17-a6c1-57bab7def5b8",
+            "value": "obj_triangleShooter"
+        }
+    ],
+    "parentObjectId": "6135c306-9e83-4413-988f-ce8d2cab101b",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,
@@ -24,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "2d35fd9c-c4cc-4ce7-bd05-082c055a5bba",
+    "spriteId": "3e2acbc1-e0c4-4a27-a9c3-2d35e9683c62",
     "visible": true
 }
