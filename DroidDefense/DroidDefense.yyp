@@ -95,6 +95,22 @@
             }
         },
         {
+            "Key": "299aa23e-0eba-4dc7-9eec-62be6db04f9f",
+            "Value": {
+                "id": "3ba98690-0855-409c-99ee-d8df05a96021",
+                "resourcePath": "sprites\\spr_spaceCastle\\spr_spaceCastle.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "2d35fd9c-c4cc-4ce7-bd05-082c055a5bba",
+            "Value": {
+                "id": "aef34b83-d820-40d5-bd77-a12d8c9fd9ed",
+                "resourcePath": "sprites\\spr_triangleShooter\\spr_triangleShooter.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "2f7763bc-a7a9-4661-ae0e-05bd5c3bfd4c",
             "Value": {
                 "id": "be725121-505b-41a2-a5fa-d084e03707a7",
@@ -252,6 +268,14 @@
                 "id": "78593bea-de8d-43c7-bd14-d67876bbddd4",
                 "resourcePath": "objects\\obj_asteroid\\obj_asteroid.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "786fd558-ad33-4f61-9691-751d5a8e5040",
+            "Value": {
+                "id": "d8d256ac-08c6-4b18-9f63-a4580e5f1a8f",
+                "resourcePath": "sprites\\spr_crawlyBug\\spr_crawlyBug.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -467,6 +491,14 @@
             "Value": {
                 "id": "ec9c65d4-0e67-40a0-aa99-91831f5b7672",
                 "resourcePath": "sprites\\spr_greenAlien\\spr_greenAlien.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "e68bad5d-9fe3-4be0-b69a-0d99e67e1b76",
+            "Value": {
+                "id": "3aadcb30-fcd8-4f53-912d-cbac699d488e",
+                "resourcePath": "sprites\\spr_roundShooter\\spr_roundShooter.yy",
                 "resourceType": "GMSprite"
             }
         },
