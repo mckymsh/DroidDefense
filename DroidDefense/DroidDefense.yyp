@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "0e77d01e-5086-4ab1-b74b-5a0403da3eb5",
+            "Value": {
+                "id": "f9f721bc-40a3-451f-81b3-b58f807433ce",
+                "resourcePath": "objects\\obj_crawlyBug\\obj_crawlyBug.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "153db516-7853-4c7d-9455-67eab874fe89",
             "Value": {
                 "id": "76172220-b707-4281-a97a-e0b459ecd509",

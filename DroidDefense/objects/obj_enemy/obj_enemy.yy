@@ -5,16 +5,6 @@
     "name": "obj_enemy",
     "eventList": [
         {
-            "id": "6ecf00cd-f7f8-41cc-8d0a-97dba64dda3d",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "619df17e-6b4b-4b7f-9e8d-cc0632c406ee"
-        },
-        {
             "id": "1e40388e-62e9-4b7a-8730-66931b5b8f30",
             "modelName": "GMEvent",
             "mvc": "1.0",

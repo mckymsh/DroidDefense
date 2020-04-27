@@ -10,6 +10,10 @@ if(spawn_enemy)
 	{
 		enemy_type = obj_greenAlien;
 	}
+	else if(enemy_number < redAlien_chance+greenAlien_chance+crawlyBug_chance)
+	{
+		enemy_type = obj_crawlyBug;
+	}
 	else
 	{
 		// something has gone wrong

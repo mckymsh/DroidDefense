@@ -90,7 +90,7 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "52",
+            "value": "25",
             "varName": "redAlien_chance",
             "varType": 0
         },
@@ -104,8 +104,22 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "48",
+            "value": "45",
             "varName": "greenAlien_chance",
+            "varType": 0
+        },
+        {
+            "id": "4b348f99-013c-415d-9733-3236520ec47d",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "30",
+            "varName": "crawlyBug_chance",
             "varType": 0
         }
     ],

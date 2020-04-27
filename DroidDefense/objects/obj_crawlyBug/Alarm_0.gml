@@ -1,0 +1,1 @@
+path_speed = abs(path_speed);
