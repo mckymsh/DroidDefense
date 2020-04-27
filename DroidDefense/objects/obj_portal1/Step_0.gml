@@ -7,13 +7,13 @@ if(instance_number(obj_enemy) < global.max_enemies)
 		{
 			if (alarm[2] < 0)
 			{
-				alarm[0] = 0.5*room_speed;
+				alarm[0] = 0.35*room_speed;
 			} else if (alarm[1] < 0)
 			{
-				alarm[0] = 1*room_speed;
+				alarm[0] = .8*room_speed;
 			} else
 			{
-				alarm[0] = 2*room_speed;
+				alarm[0] = 1.8*room_speed;
 			}
 		}
 	} else {
