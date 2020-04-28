@@ -40,7 +40,7 @@
     "layers": [
         {
             "__type": "GMRPathLayer_Model:#YoYoStudio.MVCFormat",
-            "name": "Path_2",
+            "name": "Path_0",
             "id": "b0e21e8b-0680-4845-9e8d-7d61dcf67003",
             "colour": { "Value": 4278190335 },
             "depth": 0,
