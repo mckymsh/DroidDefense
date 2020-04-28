@@ -95,6 +95,14 @@
             }
         },
         {
+            "Key": "24fbaeed-9fdb-4529-98e4-ff50822aee65",
+            "Value": {
+                "id": "9945b7f7-4548-4150-bdf9-f9d495574a6a",
+                "resourcePath": "objects\\obj_portal3\\obj_portal3.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "2608fc88-268c-43b2-a13a-d7395f4c7973",
             "Value": {
                 "id": "7efc0fa9-2b4b-47e8-8318-558d3478c420",
@@ -367,6 +375,14 @@
             }
         },
         {
+            "Key": "8affc7de-68d8-4dba-aba5-4e280fe09636",
+            "Value": {
+                "id": "8ebac214-ecc0-4bba-b887-22ef52a57ab0",
+                "resourcePath": "objects\\obj_portal1\\obj_portal1.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "95225497-bc23-4366-bd8f-d2c1a7dfec21",
             "Value": {
                 "id": "803d81f1-2747-4147-93fd-4ce7112fdd9f",
@@ -396,6 +412,14 @@
                 "id": "118ff4c2-8027-472d-8a8d-4e6edc65d81d",
                 "resourcePath": "rooms\\rm_level_2\\rm_level_2.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "9f4bddef-7df6-41cf-b230-ed8601cd8897",
+            "Value": {
+                "id": "6fd0cdc5-19de-49b9-9e3a-f88341b2f2a0",
+                "resourcePath": "objects\\obj_portal2\\obj_portal2.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -551,6 +575,14 @@
             }
         },
         {
+            "Key": "d24a5fa3-40ae-4f9c-b659-00552e08770a",
+            "Value": {
+                "id": "43ceca3f-95f1-4e58-a43d-0ab6a8ff74f6",
+                "resourcePath": "paths\\pth_level3_0\\pth_level3_0.yy",
+                "resourceType": "GMPath"
+            }
+        },
+        {
             "Key": "d4516961-8275-49ab-a8e3-1572b77eac4e",
             "Value": {
                 "id": "3776ad4e-3502-46ea-823c-b635b89ffe8a",
@@ -612,6 +644,14 @@
                 "id": "ac04618f-dacf-4c30-b2fe-12aaa44208fd",
                 "resourcePath": "rooms\\rm_level_3\\rm_level_3.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "f0d2555a-ee83-4982-8b24-fe133b4543fc",
+            "Value": {
+                "id": "373b47c2-6fb4-4b81-ba9c-0c60df493e92",
+                "resourcePath": "paths\\pth_level3_1\\pth_level3_1.yy",
+                "resourceType": "GMPath"
             }
         },
         {
