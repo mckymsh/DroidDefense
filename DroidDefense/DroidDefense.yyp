@@ -319,6 +319,14 @@
             }
         },
         {
+            "Key": "61d0913f-ccf6-4ab5-8d6e-8931decae4ff",
+            "Value": {
+                "id": "35c8f831-2b63-44fc-ab88-e9ea5a49a01c",
+                "resourcePath": "objects\\obj_crawlyBug\\obj_crawlyBug.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "65551cdc-fee9-4221-b17c-2168bca840a9",
             "Value": {
                 "id": "5168f05e-6f5c-4c59-9190-6f258d9e655f",

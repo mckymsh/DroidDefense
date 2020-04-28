@@ -14,7 +14,7 @@ if(spawn_enemy)
 	}
 	else
 	{
-		// something has gone wrong
+		enemy_type = obj_crawlyBug;
 	}
 	
 	var new_enemy = instance_create_layer(x, y, "Instances", enemy_type);

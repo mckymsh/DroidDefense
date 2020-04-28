@@ -204,7 +204,7 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "48",
+            "value": "25",
             "varName": "redAlien_chance",
             "varType": 0
         },
@@ -218,7 +218,7 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "52",
+            "value": "40",
             "varName": "greenAlien_chance",
             "varType": 0
         },
@@ -232,7 +232,7 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "0",
+            "value": "25",
             "varName": "crawlyBug_chance",
             "varType": 0
         }
