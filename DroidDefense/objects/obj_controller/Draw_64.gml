@@ -7,4 +7,7 @@ else
 {
 	draw_set_color(c_white);
 	draw_text(32, 8, string("Monies: ") + string(score));
+	if (instance_exists(obj_wizardShield)){
+		draw_text(32, 30, string("Shield Health: ") + string(obj_wizardShield.shield_health));
+	}
 }
