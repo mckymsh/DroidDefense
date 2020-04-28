@@ -1,3 +1,7 @@
+//escape the game
+if (keyboard_check(vk_escape)) {
+	game_end();
+}
 if(keyboard_check(vk_control))
 {
 	if(keyboard_check_pressed(ord("R")))

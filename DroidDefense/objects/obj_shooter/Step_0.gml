@@ -24,3 +24,20 @@ else
 {
 	direction += object_upon.spin_direction;
 }
+
+//selling the turrets
+
+if(mouse_check_button_pressed(mb_right))
+{
+	
+		if(collision_point(mouse_x, mouse_y, id, false, false))
+		{
+			//refund half the money
+			score += (price/2)
+			//spawn coins (aesthetic animation)
+			instance_create_depth(x,y,-2,obj_coinsplosion)
+			//deyeet the instance
+			instance_destroy()
+		}
+	
+}
