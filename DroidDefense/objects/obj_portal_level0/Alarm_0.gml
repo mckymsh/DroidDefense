@@ -17,12 +17,8 @@ if(spawn_enemy)
 		// something has gone wrong
 	}
 	
-	var new_enemy = instance_create_layer(0, 64, "Instances", enemy_type);
+	var new_enemy = instance_create_layer(x, y, "Instances", enemy_type);
 	new_enemy.depth = -10;
-	with(new_enemy)
-	{
-		path = choose(pth_level3_0, pth_level3_1);
-
-		path_start(path, move_speed, path_action_stop, true);
-	}
+	new_enemy.path = choose(level_path0, level_path1);
+	new_enemy.path_start(path, move_speed, path_action_stop, true);
 }
