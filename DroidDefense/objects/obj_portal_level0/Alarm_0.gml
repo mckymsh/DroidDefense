@@ -20,5 +20,8 @@ if(spawn_enemy)
 	var new_enemy = instance_create_layer(x, y, "Instances", enemy_type);
 	new_enemy.depth = -10;
 	new_enemy.path = choose(level_path0, level_path1);
-	new_enemy.path_start(path, move_speed, path_action_stop, true);
+	with(new_enemy)
+	{
+		path_start(path, move_speed, path_action_stop, true);
+	}
 }
