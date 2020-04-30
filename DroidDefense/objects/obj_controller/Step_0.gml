@@ -4,6 +4,11 @@ if (keyboard_check(vk_escape)) {
 }
 if(keyboard_check(vk_control))
 {
+	if(keyboard_check_pressed(ord("Q")))
+	{
+		game_end();
+	}
+	
 	if(keyboard_check_pressed(ord("R")))
 	{
 		room_restart();
@@ -73,6 +78,7 @@ else
 {
 	if(instance_number(obj_wizard) < 1)
 	{
-		instance_create_layer(512, 512, "Instances", obj_wizard);
+		var new_wizard = instance_create_layer(512, 512, "Instances", obj_wizard);
+		new_wizard.depth = -100;
 	}
 }
