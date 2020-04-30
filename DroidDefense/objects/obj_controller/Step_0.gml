@@ -65,3 +65,14 @@ if(room == rm_win || room == rm_lose)
 		alarm[0] = intro_delay_ratio * room_speed;
 	}
 }
+else if(room == rm_intro)
+{
+	// nuthin'
+}
+else
+{
+	if(instance_number(obj_wizard) < 1)
+	{
+		instance_create_layer(512, 512, "Instances", obj_wizard);
+	}
+}
