@@ -23,8 +23,13 @@ if(instance_number(obj_enemy) < global.max_enemies)
 		{
 			//room win
 			//set money to default
+			score = global.default_money;
 			//next room
-			
+			room_goto(next_level);			
+		}
+		else
+		{
+			// ???
 		}
 	}
 }

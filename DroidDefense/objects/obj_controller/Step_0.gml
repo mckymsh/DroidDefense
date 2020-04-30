@@ -58,3 +58,10 @@ if(keyboard_check(vk_control))
 		room_goto(rm_level_5);
 	}
 }
+if(room == rm_win || room == rm_lose)
+{
+	if(alarm[0] < 0)
+	{
+		alarm[0] = intro_delay_ratio * room_speed;
+	}
+}

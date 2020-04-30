@@ -20,6 +20,6 @@ if (shield_health < 0 && should_switch_back==false) {
 	should_switch_back = false
 }
 //gradual health increase
-if (shield_health < 100) {
+if (shield_health < max_shield_health) {
 	shield_health += shield_regen_per_step
 }

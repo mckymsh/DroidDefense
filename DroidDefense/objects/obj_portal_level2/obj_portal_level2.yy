@@ -39,6 +39,14 @@
             "objectId": "adcd23a7-7ec9-4e5c-a2c9-a322f23cfb3f",
             "propertyId": "bd6504b0-dd34-44b1-9e11-1bb5d1ee245a",
             "value": "pth_level2_1"
+        },
+        {
+            "id": "a3f482ee-e2dd-422b-a2c8-a1920d7ce431",
+            "modelName": "GMOverriddenProperty",
+            "mvc": "1.0",
+            "objectId": "adcd23a7-7ec9-4e5c-a2c9-a322f23cfb3f",
+            "propertyId": "f6c2d6bf-8b06-4ce1-baea-2af9a614ae8d",
+            "value": "rm_level_3a"
         }
     ],
     "parentObjectId": "adcd23a7-7ec9-4e5c-a2c9-a322f23cfb3f",
@@ -55,7 +63,9 @@
     "physicsShape": 1,
     "physicsShapePoints": null,
     "physicsStartAwake": true,
-    "properties": null,
+    "properties": [
+        
+    ],
     "solid": false,
     "spriteId": "00000000-0000-0000-0000-000000000000",
     "visible": true

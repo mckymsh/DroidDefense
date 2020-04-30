@@ -23,6 +23,14 @@
             "objectId": "adcd23a7-7ec9-4e5c-a2c9-a322f23cfb3f",
             "propertyId": "bd6504b0-dd34-44b1-9e11-1bb5d1ee245a",
             "value": "pth_level1_1"
+        },
+        {
+            "id": "b216b4e1-e096-4c61-a14e-004535d38248",
+            "modelName": "GMOverriddenProperty",
+            "mvc": "1.0",
+            "objectId": "adcd23a7-7ec9-4e5c-a2c9-a322f23cfb3f",
+            "propertyId": "f6c2d6bf-8b06-4ce1-baea-2af9a614ae8d",
+            "value": "rm_level_2"
         }
     ],
     "parentObjectId": "adcd23a7-7ec9-4e5c-a2c9-a322f23cfb3f",

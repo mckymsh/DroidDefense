@@ -3,5 +3,5 @@
 
 if (other.shield_health >= 0) {
 
-instance_destroy()
+instance_destroy(id, false);
 }

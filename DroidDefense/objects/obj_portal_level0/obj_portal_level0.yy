@@ -235,6 +235,20 @@
             "value": "25",
             "varName": "crawlyBug_chance",
             "varType": 0
+        },
+        {
+            "id": "f6c2d6bf-8b06-4ce1-baea-2af9a614ae8d",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "rm_test",
+            "varName": "next_level",
+            "varType": 5
         }
     ],
     "solid": false,

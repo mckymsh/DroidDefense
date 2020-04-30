@@ -5,16 +5,6 @@
     "name": "obj_crawlyBug",
     "eventList": [
         {
-            "id": "0f860466-024a-4a29-b827-078f0eb177c8",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 3,
-            "m_owner": "61d0913f-ccf6-4ab5-8d6e-8931decae4ff"
-        },
-        {
             "id": "77e080a4-f01e-4d95-b4f8-407922afb061",
             "modelName": "GMEvent",
             "mvc": "1.0",

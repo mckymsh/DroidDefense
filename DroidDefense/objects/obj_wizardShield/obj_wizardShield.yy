@@ -62,7 +62,7 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "100",
+            "value": "1000",
             "varName": "shield_health",
             "varType": 0
         },
@@ -76,7 +76,7 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "40",
+            "value": "333",
             "varName": "collision_damage",
             "varType": 0
         },
@@ -90,8 +90,22 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "0.1",
+            "value": "1",
             "varName": "shield_regen_per_step",
+            "varType": 0
+        },
+        {
+            "id": "8fd04146-a65f-4f95-a87d-4eb92d60beb0",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "1000",
+            "varName": "max_shield_health",
             "varType": 0
         }
     ],
