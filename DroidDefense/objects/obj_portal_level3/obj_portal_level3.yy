@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "obj_portal_level3",
     "eventList": [
-        
+        {
+            "id": "ba4aa779-9a34-425d-82b4-a3453ed83868",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 4,
+            "eventtype": 2,
+            "m_owner": "26c76b92-b96e-4cb1-81ae-e871d6af4352"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": [
@@ -63,7 +72,22 @@
     "physicsShape": 1,
     "physicsShapePoints": null,
     "physicsStartAwake": true,
-    "properties": null,
+    "properties": [
+        {
+            "id": "79cd8f7d-9384-44d6-8697-a92a77bc5443",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "2",
+            "varName": "seconds_before_boss_spawns",
+            "varType": 1
+        }
+    ],
     "solid": false,
     "spriteId": "00000000-0000-0000-0000-000000000000",
     "visible": true

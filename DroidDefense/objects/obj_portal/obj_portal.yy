@@ -33,6 +33,16 @@
             "enumb": 0,
             "eventtype": 0,
             "m_owner": "b5c21b6f-0f89-4d35-a596-bee3727e4c84"
+        },
+        {
+            "id": "d4f139da-52e0-4ec5-bd18-d86a3ac5897a",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 1,
+            "eventtype": 2,
+            "m_owner": "b5c21b6f-0f89-4d35-a596-bee3727e4c84"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -121,6 +131,20 @@
             "value": "30",
             "varName": "crawlyBug_chance",
             "varType": 0
+        },
+        {
+            "id": "38e54033-0a32-4ae0-98ce-d72d68334c24",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "3",
+            "varName": "seconds_before_boss_spawns",
+            "varType": 1
         }
     ],
     "solid": false,
