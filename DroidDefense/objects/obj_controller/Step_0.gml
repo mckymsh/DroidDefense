@@ -48,7 +48,7 @@ if(keyboard_check(vk_control))
 	}
 	if(keyboard_check_pressed(ord("2")))
 	{
-		room_goto(rm_level_2);
+		room_goto(rm_level_2b);
 	}
 	if(keyboard_check_pressed(ord("3")))
 	{

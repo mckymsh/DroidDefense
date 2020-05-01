@@ -17,7 +17,10 @@ if(mouse_check_button_pressed(mb_left))
 		}
 		else if(position_meeting(mouse_x, mouse_y, obj_buildableArea))
 		{
-			instance_create_depth(mouse_x, mouse_y, -10, shooter_type);
+			if(!place_meeting(mouse_x, mouse_y, obj_shooter))
+			{
+				instance_create_depth(mouse_x, mouse_y, -10, shooter_type);
+			}
 		}
 	}
 }
