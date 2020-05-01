@@ -150,9 +150,9 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "500",
+            "value": "250",
             "varName": "point_value",
-            "varType": 4
+            "varType": 0
         },
         {
             "id": "bb11fc86-8eab-4158-bd1c-d6bc4a95a278",

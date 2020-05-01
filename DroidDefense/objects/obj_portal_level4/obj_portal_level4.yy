@@ -31,6 +31,30 @@
             "objectId": "adcd23a7-7ec9-4e5c-a2c9-a322f23cfb3f",
             "propertyId": "bd6504b0-dd34-44b1-9e11-1bb5d1ee245a",
             "value": "pth_level4_1"
+        },
+        {
+            "id": "7b3f9a0a-01c5-42d2-9ce6-1f37327d7e04",
+            "modelName": "GMOverriddenProperty",
+            "mvc": "1.0",
+            "objectId": "adcd23a7-7ec9-4e5c-a2c9-a322f23cfb3f",
+            "propertyId": "a5d00a69-c708-4899-923b-44088381d517",
+            "value": "30"
+        },
+        {
+            "id": "7c6236e1-0468-4810-94b2-171c7f5c972e",
+            "modelName": "GMOverriddenProperty",
+            "mvc": "1.0",
+            "objectId": "adcd23a7-7ec9-4e5c-a2c9-a322f23cfb3f",
+            "propertyId": "d6357775-db71-4fd2-9551-52fbfb0dca86",
+            "value": "35"
+        },
+        {
+            "id": "5d202858-18c8-4263-a523-664f13da0dae",
+            "modelName": "GMOverriddenProperty",
+            "mvc": "1.0",
+            "objectId": "adcd23a7-7ec9-4e5c-a2c9-a322f23cfb3f",
+            "propertyId": "ffae08cc-5d53-475b-afdb-f4f11c879798",
+            "value": "35"
         }
     ],
     "parentObjectId": "adcd23a7-7ec9-4e5c-a2c9-a322f23cfb3f",

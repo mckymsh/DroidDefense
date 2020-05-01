@@ -1,3 +1,3 @@
-score -= 2 * point_value;
+score -= 10 * point_value;
 
 instance_destroy(id, false);
