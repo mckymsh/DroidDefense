@@ -4,7 +4,26 @@
     "mvc": "1.0",
     "name": "obj_portal_level5",
     "eventList": [
-        
+        {
+            "id": "3a8c90be-bc7e-4089-85ae-1120e5f7c32a",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 4,
+            "eventtype": 2,
+            "m_owner": "585ac6f7-375c-4bac-9cae-5acb8eaea2dc"
+        },
+        {
+            "id": "84fada25-aef8-4219-8082-11b47f7c7dce",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "585ac6f7-375c-4bac-9cae-5acb8eaea2dc"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": [
