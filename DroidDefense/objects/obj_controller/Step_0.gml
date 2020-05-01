@@ -65,14 +65,26 @@ if(keyboard_check(vk_control))
 }
 if(room == rm_win || room == rm_lose)
 {
-	if(alarm[0] < 0)
+	if(alarm[0] <= 0)
 	{
-		alarm[0] = intro_delay_ratio * room_speed;
+		// alarm[0] = intro_delay_ratio * room_speed;
+	}
+	
+	if(keyboard_check(ord("Y")))
+	{
+		room_goto(rm_level_1);
+	}
+	if(keyboard_check(ord("N")))
+	{
+		game_end();
 	}
 }
 else if(room == rm_intro)
 {
-	// nuthin'
+	if(keyboard_check(vk_space) || keyboard_check(vk_enter))
+	{
+		room_goto(rm_level_1);
+	}
 }
 else
 {

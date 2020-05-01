@@ -9,12 +9,28 @@
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": [
         {
-            "id": "60c0bc05-061e-4bdc-b70b-d3c682b89d3a",
+            "id": "25b2e0b5-51b3-4c29-b43e-dfdf836bfccc",
+            "modelName": "GMOverriddenProperty",
+            "mvc": "1.0",
+            "objectId": "adcd23a7-7ec9-4e5c-a2c9-a322f23cfb3f",
+            "propertyId": "c429ee6e-0184-4721-961a-7007b9a8f0d8",
+            "value": "pth_level5_0"
+        },
+        {
+            "id": "c995ffbe-42ff-43b1-845b-496dc3356f7c",
+            "modelName": "GMOverriddenProperty",
+            "mvc": "1.0",
+            "objectId": "adcd23a7-7ec9-4e5c-a2c9-a322f23cfb3f",
+            "propertyId": "bd6504b0-dd34-44b1-9e11-1bb5d1ee245a",
+            "value": "pth_level5_1"
+        },
+        {
+            "id": "726ed7c2-3f7a-40b5-97a1-4ac2d0ad1325",
             "modelName": "GMOverriddenProperty",
             "mvc": "1.0",
             "objectId": "adcd23a7-7ec9-4e5c-a2c9-a322f23cfb3f",
             "propertyId": "f6c2d6bf-8b06-4ce1-baea-2af9a614ae8d",
-            "value": "rm_intro"
+            "value": "rm_win"
         }
     ],
     "parentObjectId": "adcd23a7-7ec9-4e5c-a2c9-a322f23cfb3f",

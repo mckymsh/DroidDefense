@@ -1,15 +1,18 @@
 if(room == rm_intro)
 {
 	draw_text(430, 500, string("Welcome to Droid Defense!"));
-	draw_text(450, 520, string("Start in ") + string(ceil(alarm[0]/room_speed)));
+	// draw_text(430, 520, string("Start in ") + string(ceil(alarm[0]/room_speed)));
+	draw_text(430, 520, string("Press Start"));
 }
 else if(room == rm_lose)
 {
 	draw_text(430, 500, string("You Lose!"));
+	draw_text(430, 520, string("Play again? y/n"));
 }
 else if(room == rm_win)
 {
 	draw_text(430, 500, string("You Win!"));
+	draw_text(430, 520, string("Play again? y/n"));
 }
 else
 {

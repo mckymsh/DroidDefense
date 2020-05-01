@@ -16,5 +16,5 @@ if(instance_number(obj_controller) > 1) // if ya ain't first, you're last
 
 if(room == rm_intro) // and it always should
 {
-	alarm[0] = intro_delay_ratio*room_speed;
+	// alarm[0] = intro_delay_ratio*room_speed;
 }

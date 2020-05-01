@@ -19,7 +19,7 @@ if(instance_number(obj_enemy) < global.max_enemies)
 	} 
 	else 
 	{
-		if (instance_number(obj_enemy) == 0)
+		if (instance_number(obj_enemy) <= 0)
 		{
 			//room win
 			//set money to default

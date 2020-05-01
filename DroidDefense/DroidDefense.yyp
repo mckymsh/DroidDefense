@@ -103,6 +103,14 @@
             }
         },
         {
+            "Key": "1ef31012-f147-466f-a4f7-c70761e0f913",
+            "Value": {
+                "id": "f1010687-aabc-4666-b23a-fbecc54f440d",
+                "resourcePath": "paths\\pth_level5_0\\pth_level5_0.yy",
+                "resourceType": "GMPath"
+            }
+        },
+        {
             "Key": "1fda3e8e-d927-4148-a1fb-725e2ebf6ec3",
             "Value": {
                 "id": "f8e3851e-efda-4d1c-be94-241e8de9cd4a",
@@ -204,6 +212,14 @@
                 "id": "25e38fe7-f736-4d27-a275-6a6509cdbf35",
                 "resourcePath": "objects\\obj_buildableArea\\obj_buildableArea.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "31305426-cd38-4949-b693-f05f934e7ff0",
+            "Value": {
+                "id": "7404ad4e-00d2-422f-a01c-3c0a86b0079c",
+                "resourcePath": "paths\\pth_level5_1\\pth_level5_1.yy",
+                "resourceType": "GMPath"
             }
         },
         {
