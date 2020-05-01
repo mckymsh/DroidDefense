@@ -1,23 +1,23 @@
 {
-    "id": "95225497-bc23-4366-bd8f-d2c1a7dfec21",
+    "id": "28c85209-f139-4419-9ac3-0e6056d002d0",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_triangleShooter",
+    "name": "obj_projectile_round",
     "eventList": [
         
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": [
         {
-            "id": "be230671-26c2-4767-a4b9-e522fbc45101",
+            "id": "0ef2d582-d6dc-4bdb-a5d3-b43367fc2a00",
             "modelName": "GMOverriddenProperty",
             "mvc": "1.0",
-            "objectId": "28fda293-aa77-47e9-b1ef-a676e8f63d68",
-            "propertyId": "a77e48b7-0ad4-4e22-92a9-d4ebb385f23f",
-            "value": "1200"
+            "objectId": "b5269c14-3ad8-4e04-b9d3-273cc75c1725",
+            "propertyId": "21cff065-90f7-4c5a-8534-9b56c7a84038",
+            "value": "0.15"
         }
     ],
-    "parentObjectId": "28fda293-aa77-47e9-b1ef-a676e8f63d68",
+    "parentObjectId": "b5269c14-3ad8-4e04-b9d3-273cc75c1725",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,
@@ -33,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "2d35fd9c-c4cc-4ce7-bd05-082c055a5bba",
+    "spriteId": "71e61bdf-5890-45f9-9964-730bd79a0ed4",
     "visible": true
 }
